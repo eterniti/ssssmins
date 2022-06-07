@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>995</width>
+    <height>560</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Saint Seiya Mod Installer</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <property name="leftMargin">
+     <number>3</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>3</number>
+    </property>
+    <item>
+     <widget class="QTreeWidget" name="modsList">
+      <property name="contextMenuPolicy">
+       <enum>Qt::ActionsContextMenu</enum>
+      </property>
+      <property name="rootIsDecorated">
+       <bool>false</bool>
+      </property>
+      <attribute name="headerDefaultSectionSize">
+       <number>250</number>
+      </attribute>
+      <column>
+       <property name="text">
+        <string>Mod name</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Mod author</string>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Mod version</string>
+       </property>
+      </column>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="previewImage">
+      <property name="minimumSize">
+       <size>
+        <width>1</width>
+        <height>1</height>
+       </size>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>995</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionInstall_mod"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menuAbout">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionAbout"/>
+   </widget>
+   <widget class="QMenu" name="menuToola">
+    <property name="title">
+     <string>Tools</string>
+    </property>
+    <addaction name="actionAssociate_ssz_extension"/>
+    <addaction name="actionCheck_consistency"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuToola"/>
+   <addaction name="menuAbout"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionInstall_mod">
+   <property name="text">
+    <string>Install mod...</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About</string>
+   </property>
+  </action>
+  <action name="actionUninstall">
+   <property name="text">
+    <string>Uninstall</string>
+   </property>
+  </action>
+  <action name="actionAssociate_ssz_extension">
+   <property name="text">
+    <string>Associate .ssz extension</string>
+   </property>
+  </action>
+  <action name="actionCheck_consistency">
+   <property name="text">
+    <string>Check consistency</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

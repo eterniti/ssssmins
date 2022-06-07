@@ -1,0 +1,336 @@
+<RCC>
+    <qresource prefix="/blobs">
+        <file>bin/chara_data.cdc</file>
+        <file>bin/characters_info.cin</file>
+        <file>bin/characters_info2.ci2</file>
+        <file>bin/characters_lists.clt</file>
+        <file>bin/CharacterSelectPosition.csp</file>
+        <file>bin/cmn_model_spec.cms</file>
+        <file>bin/global_characters_list.gcl</file>
+        <file>bin/ResultPositionData.rpd</file>
+        <file>bin/slots_data.slf</file>
+        <file>bin/TdbChrName.tdb</file>
+        <file>bin/steam_api.dll</file>
+        <file>bin/sssspatcher.ini</file>
+        <file>bin/characters_info3.ci3</file>
+        <file>bin/characters_info4.ci4</file>
+        <file>bin/GW_DATA.gwd</file>
+        <file>bin/GW_POSITION_DATA.gpd</file>
+        <file>bin/galaxian_wars_list.gwl</file>
+        <file>bin/BattleOfGoldReverse.bgr</file>
+        <file>bin/TdbAssistPhrase.tdb</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>icons59/0002_0002.png</file>
+        <file>icons59/0002_0065.png</file>
+        <file>icons59/0002_0128.png</file>
+        <file>icons59/0002_0191.png</file>
+        <file>icons59/0002_0254.png</file>
+        <file>icons59/0002_0317.png</file>
+        <file>icons59/0002_0380.png</file>
+        <file>icons59/0002_0443.png</file>
+        <file>icons59/0002_0506.png</file>
+        <file>icons59/0065_0002.png</file>
+        <file>icons59/0065_0065.png</file>
+        <file>icons59/0065_0128.png</file>
+        <file>icons59/0065_0191.png</file>
+        <file>icons59/0065_0254.png</file>
+        <file>icons59/0065_0317.png</file>
+        <file>icons59/0065_0380.png</file>
+        <file>icons59/0065_0443.png</file>
+        <file>icons59/0128_0002.png</file>
+        <file>icons59/0128_0065.png</file>
+        <file>icons59/0128_0128.png</file>
+        <file>icons59/0128_0191.png</file>
+        <file>icons59/0128_0254.png</file>
+        <file>icons59/0128_0317.png</file>
+        <file>icons59/0128_0380.png</file>
+        <file>icons59/0128_0443.png</file>
+        <file>icons59/0128_0506.png</file>
+        <file>icons59/0191_0002.png</file>
+        <file>icons59/0191_0065.png</file>
+        <file>icons59/0191_0128.png</file>
+        <file>icons59/0191_0191.png</file>
+        <file>icons59/0191_0254.png</file>
+        <file>icons59/0191_0317.png</file>
+        <file>icons59/0191_0380.png</file>
+        <file>icons59/0191_0443.png</file>
+        <file>icons59/0191_0506.png</file>
+        <file>icons59/0254_0002.png</file>
+        <file>icons59/0254_0065.png</file>
+        <file>icons59/0254_0128.png</file>
+        <file>icons59/0254_0191.png</file>
+        <file>icons59/0254_0254.png</file>
+        <file>icons59/0254_0317.png</file>
+        <file>icons59/0254_0380.png</file>
+        <file>icons59/0254_0443.png</file>
+        <file>icons59/0254_0506.png</file>
+        <file>icons59/0317_0002.png</file>
+        <file>icons59/0317_0065.png</file>
+        <file>icons59/0317_0128.png</file>
+        <file>icons59/0317_0191.png</file>
+        <file>icons59/0317_0254.png</file>
+        <file>icons59/0317_0317.png</file>
+        <file>icons59/0317_0380.png</file>
+        <file>icons59/0317_0443.png</file>
+        <file>icons59/0317_0506.png</file>
+        <file>icons59/0380_0002.png</file>
+        <file>icons59/0380_0065.png</file>
+        <file>icons59/0380_0128.png</file>
+        <file>icons59/0380_0191.png</file>
+        <file>icons59/0380_0254.png</file>
+        <file>icons59/0380_0317.png</file>
+        <file>icons59/0380_0380.png</file>
+        <file>icons59/0380_0443.png</file>
+        <file>icons59/0380_0506.png</file>
+        <file>icons59/0443_0002.png</file>
+        <file>icons59/0443_0065.png</file>
+        <file>icons59/0443_0128.png</file>
+        <file>icons59/0443_0191.png</file>
+        <file>icons59/0443_0254.png</file>
+        <file>icons59/0443_0317.png</file>
+        <file>icons59/0443_0380.png</file>
+        <file>icons59/0443_0443.png</file>
+        <file>icons59/0443_0506.png</file>
+        <file>icons59/0506_0002.png</file>
+        <file>icons59/0506_0065.png</file>
+        <file>icons59/0506_0128.png</file>
+        <file>icons59/0506_0191.png</file>
+        <file>icons59/0506_0254.png</file>
+        <file>icons59/0506_0317.png</file>
+        <file>icons59/0506_0380.png</file>
+        <file>icons59/0506_0443.png</file>
+        <file>icons59/0506_0506.png</file>
+        <file>icons59/0569_0002.png</file>
+        <file>icons59/0569_0065.png</file>
+        <file>icons59/0569_0128.png</file>
+        <file>icons59/0569_0191.png</file>
+        <file>icons59/0569_0254.png</file>
+        <file>icons59/0569_0317.png</file>
+        <file>icons59/0569_0380.png</file>
+        <file>icons59/0569_0443.png</file>
+        <file>icons59/0569_0506.png</file>
+        <file>icons59/0632_0002.png</file>
+        <file>icons59/0632_0065.png</file>
+        <file>icons59/0632_0128.png</file>
+        <file>icons59/0632_0191.png</file>
+        <file>icons59/0632_0254.png</file>
+        <file>icons59/0632_0317.png</file>
+        <file>icons59/0632_0380.png</file>
+        <file>icons59/0632_0443.png</file>
+        <file>icons59/0632_0506.png</file>
+        <file>icons59/0695_0002.png</file>
+        <file>icons59/0695_0065.png</file>
+        <file>icons59/0695_0128.png</file>
+        <file>icons59/0695_0191.png</file>
+        <file>icons59/0695_0254.png</file>
+        <file>icons59/0695_0317.png</file>
+        <file>icons59/0695_0380.png</file>
+        <file>icons59/0695_0443.png</file>
+        <file>icons59/0695_0506.png</file>
+        <file>icons59/0758_0002.png</file>
+        <file>icons59/0758_0065.png</file>
+        <file>icons59/0758_0128.png</file>
+        <file>icons59/0758_0191.png</file>
+        <file>icons59/0758_0254.png</file>
+        <file>icons59/0758_0317.png</file>
+        <file>icons59/0758_0380.png</file>
+        <file>icons59/0758_0443.png</file>
+        <file>icons59/0758_0506.png</file>
+        <file>icons59/0821_0002.png</file>
+        <file>icons59/0821_0065.png</file>
+        <file>icons59/0821_0128.png</file>
+        <file>icons59/0821_0191.png</file>
+        <file>icons59/0821_0254.png</file>
+        <file>icons59/0821_0317.png</file>
+        <file>icons59/0821_0380.png</file>
+        <file>icons59/0821_0443.png</file>
+        <file>icons59/0821_0506.png</file>
+        <file>icons59/0884_0002.png</file>
+        <file>icons59/0884_0065.png</file>
+        <file>icons59/0884_0128.png</file>
+        <file>icons59/0884_0191.png</file>
+        <file>icons59/0884_0254.png</file>
+        <file>icons59/0884_0317.png</file>
+        <file>icons59/0884_0380.png</file>
+        <file>icons59/0884_0443.png</file>
+        <file>icons59/0884_0506.png</file>
+        <file>icons59/0947_0002.png</file>
+        <file>icons59/0947_0065.png</file>
+        <file>icons59/0947_0128.png</file>
+        <file>icons59/0947_0191.png</file>
+        <file>icons59/0947_0254.png</file>
+        <file>icons59/0947_0317.png</file>
+        <file>icons59/0947_0380.png</file>
+        <file>icons59/0947_0443.png</file>
+        <file>icons59/0947_0506.png</file>
+        <file>icons59/1010_0002.png</file>
+        <file>icons59/1010_0065.png</file>
+        <file>icons59/1010_0128.png</file>
+        <file>icons59/1010_0191.png</file>
+        <file>icons59/1010_0254.png</file>
+        <file>icons59/1010_0317.png</file>
+        <file>icons59/1073_0002.png</file>
+        <file>icons59/1073_0065.png</file>
+        <file>icons59/1073_0128.png</file>
+        <file>icons59/1073_0191.png</file>
+        <file>icons59/1073_0254.png</file>
+        <file>icons59/1073_0506.png</file>
+        <file>icons59 disabled/0002_0002.png</file>
+        <file>icons59 disabled/0002_0065.png</file>
+        <file>icons59 disabled/0002_0128.png</file>
+        <file>icons59 disabled/0002_0191.png</file>
+        <file>icons59 disabled/0002_0254.png</file>
+        <file>icons59 disabled/0002_0317.png</file>
+        <file>icons59 disabled/0002_0380.png</file>
+        <file>icons59 disabled/0002_0443.png</file>
+        <file>icons59 disabled/0002_0506.png</file>
+        <file>icons59 disabled/0065_0002.png</file>
+        <file>icons59 disabled/0065_0065.png</file>
+        <file>icons59 disabled/0065_0128.png</file>
+        <file>icons59 disabled/0065_0191.png</file>
+        <file>icons59 disabled/0065_0254.png</file>
+        <file>icons59 disabled/0065_0317.png</file>
+        <file>icons59 disabled/0065_0380.png</file>
+        <file>icons59 disabled/0065_0443.png</file>
+        <file>icons59 disabled/0128_0002.png</file>
+        <file>icons59 disabled/0128_0065.png</file>
+        <file>icons59 disabled/0128_0128.png</file>
+        <file>icons59 disabled/0128_0191.png</file>
+        <file>icons59 disabled/0128_0254.png</file>
+        <file>icons59 disabled/0128_0317.png</file>
+        <file>icons59 disabled/0128_0380.png</file>
+        <file>icons59 disabled/0128_0443.png</file>
+        <file>icons59 disabled/0128_0506.png</file>
+        <file>icons59 disabled/0191_0002.png</file>
+        <file>icons59 disabled/0191_0065.png</file>
+        <file>icons59 disabled/0191_0128.png</file>
+        <file>icons59 disabled/0191_0191.png</file>
+        <file>icons59 disabled/0191_0254.png</file>
+        <file>icons59 disabled/0191_0317.png</file>
+        <file>icons59 disabled/0191_0380.png</file>
+        <file>icons59 disabled/0191_0443.png</file>
+        <file>icons59 disabled/0191_0506.png</file>
+        <file>icons59 disabled/0254_0002.png</file>
+        <file>icons59 disabled/0254_0065.png</file>
+        <file>icons59 disabled/0254_0128.png</file>
+        <file>icons59 disabled/0254_0191.png</file>
+        <file>icons59 disabled/0254_0254.png</file>
+        <file>icons59 disabled/0254_0317.png</file>
+        <file>icons59 disabled/0254_0380.png</file>
+        <file>icons59 disabled/0254_0443.png</file>
+        <file>icons59 disabled/0254_0506.png</file>
+        <file>icons59 disabled/0317_0002.png</file>
+        <file>icons59 disabled/0317_0065.png</file>
+        <file>icons59 disabled/0317_0128.png</file>
+        <file>icons59 disabled/0317_0191.png</file>
+        <file>icons59 disabled/0317_0254.png</file>
+        <file>icons59 disabled/0317_0317.png</file>
+        <file>icons59 disabled/0317_0380.png</file>
+        <file>icons59 disabled/0317_0443.png</file>
+        <file>icons59 disabled/0317_0506.png</file>
+        <file>icons59 disabled/0380_0002.png</file>
+        <file>icons59 disabled/0380_0065.png</file>
+        <file>icons59 disabled/0380_0128.png</file>
+        <file>icons59 disabled/0380_0191.png</file>
+        <file>icons59 disabled/0380_0254.png</file>
+        <file>icons59 disabled/0380_0317.png</file>
+        <file>icons59 disabled/0380_0380.png</file>
+        <file>icons59 disabled/0380_0443.png</file>
+        <file>icons59 disabled/0380_0506.png</file>
+        <file>icons59 disabled/0443_0002.png</file>
+        <file>icons59 disabled/0443_0065.png</file>
+        <file>icons59 disabled/0443_0128.png</file>
+        <file>icons59 disabled/0443_0191.png</file>
+        <file>icons59 disabled/0443_0254.png</file>
+        <file>icons59 disabled/0443_0317.png</file>
+        <file>icons59 disabled/0443_0380.png</file>
+        <file>icons59 disabled/0443_0443.png</file>
+        <file>icons59 disabled/0443_0506.png</file>
+        <file>icons59 disabled/0506_0002.png</file>
+        <file>icons59 disabled/0506_0065.png</file>
+        <file>icons59 disabled/0506_0128.png</file>
+        <file>icons59 disabled/0506_0191.png</file>
+        <file>icons59 disabled/0506_0254.png</file>
+        <file>icons59 disabled/0506_0317.png</file>
+        <file>icons59 disabled/0506_0380.png</file>
+        <file>icons59 disabled/0506_0443.png</file>
+        <file>icons59 disabled/0506_0506.png</file>
+        <file>icons59 disabled/0569_0002.png</file>
+        <file>icons59 disabled/0569_0065.png</file>
+        <file>icons59 disabled/0569_0128.png</file>
+        <file>icons59 disabled/0569_0191.png</file>
+        <file>icons59 disabled/0569_0254.png</file>
+        <file>icons59 disabled/0569_0317.png</file>
+        <file>icons59 disabled/0569_0380.png</file>
+        <file>icons59 disabled/0569_0443.png</file>
+        <file>icons59 disabled/0569_0506.png</file>
+        <file>icons59 disabled/0632_0002.png</file>
+        <file>icons59 disabled/0632_0065.png</file>
+        <file>icons59 disabled/0632_0128.png</file>
+        <file>icons59 disabled/0632_0191.png</file>
+        <file>icons59 disabled/0632_0254.png</file>
+        <file>icons59 disabled/0632_0317.png</file>
+        <file>icons59 disabled/0632_0380.png</file>
+        <file>icons59 disabled/0632_0443.png</file>
+        <file>icons59 disabled/0632_0506.png</file>
+        <file>icons59 disabled/0695_0002.png</file>
+        <file>icons59 disabled/0695_0065.png</file>
+        <file>icons59 disabled/0695_0128.png</file>
+        <file>icons59 disabled/0695_0191.png</file>
+        <file>icons59 disabled/0695_0254.png</file>
+        <file>icons59 disabled/0695_0317.png</file>
+        <file>icons59 disabled/0695_0380.png</file>
+        <file>icons59 disabled/0695_0443.png</file>
+        <file>icons59 disabled/0695_0506.png</file>
+        <file>icons59 disabled/0758_0002.png</file>
+        <file>icons59 disabled/0758_0065.png</file>
+        <file>icons59 disabled/0758_0128.png</file>
+        <file>icons59 disabled/0758_0191.png</file>
+        <file>icons59 disabled/0758_0254.png</file>
+        <file>icons59 disabled/0758_0317.png</file>
+        <file>icons59 disabled/0758_0380.png</file>
+        <file>icons59 disabled/0758_0443.png</file>
+        <file>icons59 disabled/0758_0506.png</file>
+        <file>icons59 disabled/0821_0002.png</file>
+        <file>icons59 disabled/0821_0065.png</file>
+        <file>icons59 disabled/0821_0128.png</file>
+        <file>icons59 disabled/0821_0191.png</file>
+        <file>icons59 disabled/0821_0254.png</file>
+        <file>icons59 disabled/0821_0317.png</file>
+        <file>icons59 disabled/0821_0380.png</file>
+        <file>icons59 disabled/0821_0443.png</file>
+        <file>icons59 disabled/0821_0506.png</file>
+        <file>icons59 disabled/0884_0002.png</file>
+        <file>icons59 disabled/0884_0065.png</file>
+        <file>icons59 disabled/0884_0128.png</file>
+        <file>icons59 disabled/0884_0191.png</file>
+        <file>icons59 disabled/0884_0254.png</file>
+        <file>icons59 disabled/0884_0317.png</file>
+        <file>icons59 disabled/0884_0380.png</file>
+        <file>icons59 disabled/0884_0443.png</file>
+        <file>icons59 disabled/0884_0506.png</file>
+        <file>icons59 disabled/0947_0002.png</file>
+        <file>icons59 disabled/0947_0065.png</file>
+        <file>icons59 disabled/0947_0128.png</file>
+        <file>icons59 disabled/0947_0191.png</file>
+        <file>icons59 disabled/0947_0254.png</file>
+        <file>icons59 disabled/0947_0317.png</file>
+        <file>icons59 disabled/0947_0380.png</file>
+        <file>icons59 disabled/0947_0443.png</file>
+        <file>icons59 disabled/0947_0506.png</file>
+        <file>icons59 disabled/1010_0002.png</file>
+        <file>icons59 disabled/1010_0065.png</file>
+        <file>icons59 disabled/1010_0128.png</file>
+        <file>icons59 disabled/1010_0191.png</file>
+        <file>icons59 disabled/1010_0254.png</file>
+        <file>icons59 disabled/1010_0317.png</file>
+        <file>icons59 disabled/1073_0002.png</file>
+        <file>icons59 disabled/1073_0065.png</file>
+        <file>icons59 disabled/1073_0128.png</file>
+        <file>icons59 disabled/1073_0191.png</file>
+        <file>icons59 disabled/1073_0254.png</file>
+        <file>icons59 disabled/1073_0506.png</file>
+        <file>icons59 disabled/1136_0506.png</file>
+    </qresource>
+</RCC>
